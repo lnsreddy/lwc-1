@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/lnsreddy.lwc-l9o84k1c-fork-l9o8gbrd",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 0tSlCenlRtcLsUG51meT --open"
+  }
+}
