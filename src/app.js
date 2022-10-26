@@ -1,7 +1,7 @@
 import { LightningElement } from "lwc";
 
 export default class App extends LightningElement {
-  title = "Welcome to lwc! Lakshmi Narasimha Reddy";
+  title = "Welcome to lwc! Lakshmi  Reddy";
 
   showFeatures = true;
 
@@ -17,11 +17,7 @@ export default class App extends LightningElement {
       {
         label: "View changes to code instantly with Live Compilation.",
         icon: "utility:refresh",
-      },
-      {
-        label: "Style your components with SLDS.",
-        icon: "utility:brush",
-      },
+      }
     ];
   }
 }
